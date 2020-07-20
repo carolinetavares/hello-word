@@ -1,5 +1,3 @@
 # hello-word
-
-Olá, testando novamente!
-
+Testando novamente!
 Excelente ferramenta.
